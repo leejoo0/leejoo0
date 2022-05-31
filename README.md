@@ -1,8 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleejoo0&count_bg=%23003398&title_bg=%23414141&icon=gitlab.svg&icon_color=%23FFFAFA&title=VIEW&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Hi 😄😄😄
+### I'm leejoo0 ❤❤❤
 
-
+![leejoo0's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejoo0&show_icons=true&theme=radical)
 <!--
 **leejoo0/leejoo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
